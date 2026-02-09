@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: devopshubg333/batch15d:fb_httpd
+          image: venkateshwarlur/myrepo:fb_httpd
           ports:
             - containerPort: 8080
       
