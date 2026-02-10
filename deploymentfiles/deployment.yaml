@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: venkateshwarlur/myrepo:1
+          image: venkateshwarlur/myrepo:2
           ports:
             - containerPort: 8080
       
